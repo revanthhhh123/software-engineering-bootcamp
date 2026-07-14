@@ -1,0 +1,23 @@
+/* {
+    text-align: center;
+    text-transform: uppercase;
+}
+*{
+    font-family:times new roman;
+}
+#container{
+    font-size: 20px;
+    
+}
+#inner-container{
+    font-size:34px;
+} */
+ div{
+    height:200px;
+    
+    border:20px solid blue;
+    border-radius:20px;
+} 
+#q{
+
+}
